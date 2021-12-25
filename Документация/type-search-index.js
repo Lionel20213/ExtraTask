@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.len","l":"Main"},{"p":"com.len.serializer","l":"MyJSON"},{"p":"com.len.serializer","l":"MyXML"},{"p":"com.len.serializer","l":"ObjectSerializer"},{"p":"com.len","l":"Test"}]
